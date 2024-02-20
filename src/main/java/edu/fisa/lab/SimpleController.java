@@ -10,7 +10,7 @@ public class SimpleController {
 	@GetMapping("getdata")
 	public String get() {
 		System.out.println("clear");
-		return "fisa data";
+		return "fisa data 수정 1";
 	}
 	
 }
